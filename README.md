@@ -54,6 +54,11 @@ The Complete Flutter Development Bootcamp with Dart
 * [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
 
 ## Section 7: Dicee - Building Apps with State
-
+* [Image Widget Documentation](https://api.flutter.dev/flutter/widgets/Image-class.html)
+* [TextButton Documentation (FlatButton is deprecated)](https://api.flutter.dev/flutter/material/TextButton-class.html)
+* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
+* [Dart Math Library](https://api.flutter.dev/flutter/dart-math/dart-math-library.html)
+* [Random Class](https://api.flutter.dev/flutter/dart-math/Random-class.html)
+* [Dicee Completed Project](https://github.com/droidinnovation/dicee-flutter)
 
 
