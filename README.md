@@ -61,4 +61,15 @@ The Complete Flutter Development Bootcamp with Dart
 * [Random Class](https://api.flutter.dev/flutter/dart-math/Random-class.html)
 * [Dicee Completed Project](https://github.com/droidinnovation/dicee-flutter)
 
+## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
+
+* [XyloPhone Stub Project](https://github.com/droidinnovation/xylophone-flutter)
+* [Flutter Packages](https://pub.dartlang.org/flutter)
+* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
+* [AudioCache Documentation](https://github.com/bluefireteam/audioplayers/blob/master/packages/audioplayers/doc/audio_cache.md)
+* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
+* [Xylophone Completed Project](https://github.com/droidinnovation/xylophone-flutter)
+
+
 
